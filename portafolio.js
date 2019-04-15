@@ -29,9 +29,9 @@ var trabajos=[
     title: "Regalos",
     about: "Regala y sorprende",
 }, {
-    figure: "media/foto-07.jpg",
-    title: "Regalos",
-    about: "Regala y sorprende",
+    figure: "media/foto-08.jpg",
+    title: "Nuestras telas",
+    about: "100% lino",
 }
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
